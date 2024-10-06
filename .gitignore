@@ -1,0 +1,7 @@
+# Loại trừ .env files trong client và server
+client/.env
+server/.env
+
+# Loại trừ node_modules trong client và server
+client/node_modules/
+server/node_modules/
